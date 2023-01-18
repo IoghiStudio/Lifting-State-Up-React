@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.js": "/lifting-state-up-react/static/js/main.abae4998.js",
+    "main.css": "/lifting-state-up-react/static/css/main.446093c3.css",
+    "main.js": "/lifting-state-up-react/static/js/main.b5b4fb0e.js",
     "static/js/787.9b32e748.chunk.js": "/lifting-state-up-react/static/js/787.9b32e748.chunk.js",
     "index.html": "/lifting-state-up-react/index.html",
-    "main.abae4998.js.map": "/lifting-state-up-react/static/js/main.abae4998.js.map",
+    "main.446093c3.css.map": "/lifting-state-up-react/static/css/main.446093c3.css.map",
+    "main.b5b4fb0e.js.map": "/lifting-state-up-react/static/js/main.b5b4fb0e.js.map",
     "787.9b32e748.chunk.js.map": "/lifting-state-up-react/static/js/787.9b32e748.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.abae4998.js"
+    "static/css/main.446093c3.css",
+    "static/js/main.b5b4fb0e.js"
   ]
 }
