@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { Form } from './Form';
-import { UserList } from './UserList';
+import { Form } from '../Form';
+import { UserList } from '../UserList';
 
 const usersFromServer = [
   {

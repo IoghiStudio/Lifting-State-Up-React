@@ -1,7 +1,6 @@
-import { rename } from 'fs';
 import React from 'react';
-import { UserType } from './App';
-import { User } from './User';
+import { UserType } from '../App';
+import { User } from '../User';
 
 type Props = {
   users: UserType[];

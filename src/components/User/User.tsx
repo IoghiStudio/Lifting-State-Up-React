@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react';
-import { UserType } from './App';
+import { UserType } from '../App';
 
 type Props = {
   user: UserType;
