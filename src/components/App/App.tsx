@@ -34,7 +34,7 @@ export const App: React.FC = () => {
       }
 
       return [...state, newUser];
-    })
+    });
   }
 
   const deleteUser = (userId: number) => {
@@ -56,7 +56,7 @@ export const App: React.FC = () => {
           age: user.age,
         };
       })
-    ))
+    ));
   }
 
   return (
