@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/liftin-state-up-react/static/js/main.a0fa7445.js",
-    "static/js/787.d52ca36f.chunk.js": "/liftin-state-up-react/static/js/787.d52ca36f.chunk.js",
-    "index.html": "/liftin-state-up-react/index.html",
-    "main.a0fa7445.js.map": "/liftin-state-up-react/static/js/main.a0fa7445.js.map",
-    "787.d52ca36f.chunk.js.map": "/liftin-state-up-react/static/js/787.d52ca36f.chunk.js.map"
+    "main.js": "/lifting-state-up-react/static/js/main.abae4998.js",
+    "static/js/787.9b32e748.chunk.js": "/lifting-state-up-react/static/js/787.9b32e748.chunk.js",
+    "index.html": "/lifting-state-up-react/index.html",
+    "main.abae4998.js.map": "/lifting-state-up-react/static/js/main.abae4998.js.map",
+    "787.9b32e748.chunk.js.map": "/lifting-state-up-react/static/js/787.9b32e748.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.a0fa7445.js"
+    "static/js/main.abae4998.js"
   ]
 }
