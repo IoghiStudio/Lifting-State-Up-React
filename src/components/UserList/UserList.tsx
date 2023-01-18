@@ -15,15 +15,13 @@ export const UserList: React.FC<Props> = ({
 }) => (
   <ul>
     {users.map(user => (
-      <>
-        <li key={user.id}>
-          <User
-            user={user}
-            deleteUser={() => deleteUser(user.id)}
-            renameUser={renameUser}
-          />
-        </li>
-      </>
+      <li key={user.id}>
+        <User
+          user={user}
+          deleteUser={() => deleteUser(user.id)}
+          renameUser={renameUser}
+        />
+      </li>
     ))}
   </ul>
 );
